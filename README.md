@@ -1,4 +1,4 @@
-# Todolist com Cassandra
+# Lista de Tarefas Simples com Banco Colunar (Cassandra)
 
 Projeto simples para gerenciar uma lista de tarefas usando o Cassandra.
 
